@@ -13,7 +13,7 @@ To get started with the project, follow these steps:
 
 2. Navigate to the project directory:
     ```sh
-    cd SpamFilteration
+    cd Spam-Filteration
     ```
 
 3. Install the required dependencies:
@@ -29,5 +29,5 @@ Follow these instructions to use the spam filter:
 
 2. Run the main application:
     ```sh
-    python main.py
+    streamlit run app.py
     ```
