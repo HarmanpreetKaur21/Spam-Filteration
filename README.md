@@ -31,3 +31,18 @@ Follow these instructions to use the spam filter:
     ```sh
     streamlit run app.py
     ```
+## Features
+
+- Classifies messages as spam or ham using machine learning models
+- Supports analysis of email or text data
+- Provides detailed classification results and metrics
+
+## Contributing
+
+We welcome contributions! Please follow these steps to contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Make your changes and commit them (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Open a Pull Request
